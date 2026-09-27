@@ -1,3 +1,4 @@
+# Copyright (C) 2026 Spinitron, LLC
 # docker build -f test/Dockerfile -t ngx-icecast-source .
 # docker run --rm ngx-icecast-source
 # Exit 0: the source audio reached a listener through nginx.

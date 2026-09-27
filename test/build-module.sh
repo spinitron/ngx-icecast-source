@@ -1,4 +1,5 @@
 #!/bin/sh
+# Copyright (C) 2026 Spinitron, LLC
 # Build ngx_http_icecast_source_module.so against the nginx package
 # installed on this machine. Requires Ubuntu/Debian source entries (deb-src).
 set -eu

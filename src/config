@@ -1,3 +1,5 @@
+# Copyright (C) 2026 Spinitron, LLC
+
 ngx_addon_name=ngx_http_icecast_source_module
 
 if test -n "$ngx_module_link"; then

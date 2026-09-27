@@ -28,7 +28,7 @@ No admin UI. No stats. No listener features.
 
 ## License
 
-BSD-2-Clause, the nginx license.
+BSD-2-Clause, the nginx license. Copyright (C) 2026 Spinitron, LLC.
 
 ## Build
 

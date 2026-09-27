@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# Copyright (C) 2026 Spinitron, LLC
 """Send an Icecast SOURCE the way BUTT does, and see if a listener hears it."""
 
 import base64

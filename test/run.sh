@@ -1,4 +1,5 @@
 #!/bin/sh
+# Copyright (C) 2026 Spinitron, LLC
 set -eu
 cd "$(dirname "$0")"
 ROOT=$(pwd)
